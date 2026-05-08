@@ -1,5 +1,4 @@
 # 📄 Transcritor Inteligente — INOVHIA Tecnologia
-<img width="1084" height="484" alt="Transcritor1" src="https://github.com/user-attachments/assets/6b74df4a-5447-4291-993d-1e56b7662f37" />
 
 Uma aplicação desktop robusta e de alta performance desenvolvida para automatizar a extração, análise e formatação de dados a partir de documentos PDF complexos (como relatórios de auditoria, apresentações de slides e demonstrações financeiras). 
 
