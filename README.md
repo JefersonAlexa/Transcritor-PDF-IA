@@ -17,19 +17,6 @@ O sistema opera com um motor híbrido: utiliza a inteligência visual do **Googl
 - **🛡️ UX Suprema e Controles de Segurança:** Impede a leitura acidental de arquivos incorretos (lixo), burla o *Modo de Exibição Protegido* do Windows e oferece abertura inteligente de diretório após a exportação.
 
 ---
-
-## 🛠️ Tecnologias e Bibliotecas Utilizadas
-
-- **Linguagem:** Python 3.x
-- **Interface Gráfica (GUI):** `tkinter` e `ttk`
-- **Manipulação de PDF:** `PyMuPDF` (fitz)
-- **Integração com IA:** `google-generativeai`
-- **Criação de Documentos:** `python-docx` e `lxml`
-- **Processamento de Imagens:** `Pillow` (PIL)
-- **Compilação:** `PyInstaller`
-
----
-
 ## ⚙️ Pré-requisitos e Instalação
 
 ### 1. Clonar o repositório
